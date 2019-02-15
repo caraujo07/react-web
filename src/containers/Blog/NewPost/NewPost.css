@@ -40,3 +40,9 @@
     color: white;
     background-color: #fa923f;
 }
+
+@media (min-width: 999px) {
+    .NewPost {
+        width: 40%;
+    }
+}
