@@ -5,3 +5,18 @@
   width: 80%;
   margin: auto;
 }
+
+.Posts a {
+  border: none;
+}
+
+.Posts h1 {
+  color: #000;
+}
+
+.Posts a:active,
+.Posts a.active,
+.Posts a.my-active {
+    color: #000;
+    border: none;
+}

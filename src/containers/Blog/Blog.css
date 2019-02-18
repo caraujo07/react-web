@@ -23,9 +23,10 @@
     font-size: 1.3rem;
 }
 
-.Blog a:hover, 
+ 
 .Blog a:active,
-.Blog a.active {
+.Blog a.active,
+.Blog a.my-active {
     color: #fa923f;
     border-bottom: 3px solid #fa923f;
 }
